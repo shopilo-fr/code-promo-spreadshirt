@@ -1,0 +1,22 @@
+{
+  "name": "code-promo-spreadshirt",
+  "version": "1.0.0",
+  "description": "Recuperation automatique de codes promo Spreadshirt depuis shopilo.fr",
+  "main": "index.js",
+  "keywords": [
+    "code-promo",
+    "code-promo-spreadshirt",
+    "bon-de-reduction-spreadshirt",
+    "coupon-spreadshirt",
+    "reductions",
+    "shopilo",
+    "coupons"
+  ],
+  "author": "shopilo-fr",
+  "license": "MIT",
+  "homepage": "https://shopilo.fr/reductions/spreadshirt.fr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-fr/code-promo-spreadshirt.git"
+  }
+}
